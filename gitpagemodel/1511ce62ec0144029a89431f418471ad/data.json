@@ -1,0 +1,1 @@
+{"fields": {"subtitle": "Foo", "description": "Foo translation test", "title": "Foo ", "primary_category": null, "created_at": "2014-09-25T13:57:41.676604+00:00", "modified_at": "2014-09-25T13:57:41.676931+00:00", "slug": "foo-1", "content": "Translate please.", "published": true, "id": "1511ce62ec0144029a89431f418471ad"}, "model": "GitPageModel"}
